@@ -1,6 +1,6 @@
-# Computer Fundamentals
+# computer fundamentals
 
- * [Computer_Networks](./Computer_Networks)
- * [Database_Management_Systems](./Database_Management_Systems)
- * [Operating_Systems](./Operating_Systems)
+ * [computer_networks](./computer_networks)
+ * [database_management_systems](./database_management_systems)
+ * [operating_systems](./operating_systems)
 
