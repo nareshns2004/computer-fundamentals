@@ -34,7 +34,7 @@ module_init(hello_world_init_module);
 module_exit(hello_world_cleanup_module);
 
 /*Module Information*/
-#define AUTHOR_NAME "ABHISHEK_SAGAR"
+#define AUTHOR_NAME "NARESH_KUMAR"
 #define MODULE_DESC "HELLO_WORLD_LINUX_KERNEL_MODULE"
 
 MODULE_AUTHOR(AUTHOR_NAME);         /* Who wrote this module? */

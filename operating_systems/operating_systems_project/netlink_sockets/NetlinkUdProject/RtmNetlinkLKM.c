@@ -168,7 +168,7 @@ module_init(NetlinkProject_init);
 module_exit(NetlinkProject_exit);
 
 /*Module Information*/
-#define AUTHOR_NAME "ABHISHEK_SAGAR"
+#define AUTHOR_NAME "NARESH_KUMAR"
 #define MODULE_DESC "HELLO_WORLD_LINUX_KERNEL_MODULE"
 
 MODULE_AUTHOR(AUTHOR_NAME);         /* Who wrote this module? */
