@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tcpip_stack
 Implement your own TCP IP Stack
 
@@ -36,3 +37,6 @@ Part A : https://www.udemy.com/course/tcpipstack/?referralCode=83CF8FB4DE8E4C0D4
 Part B : https://www.udemy.com/course/tcpipstack_b/?referralCode=210EED3DDB079FA45AAF
 
 For other courses offered, visit : www.csepracticals.com 
+=======
+# tcp ip stack
+>>>>>>> bcafc17 (tcp_ip_stack)
